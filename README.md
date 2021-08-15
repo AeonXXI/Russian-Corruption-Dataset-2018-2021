@@ -1,2 +1,19 @@
-# Russian-Corruption-Dataset-2018-2021
-A dataset on corruption  in Russian regions between 2018-2021. The dataset is constructed from official court conviction data, and split by: Region, Year, and Occupation of convicted
+# Russian Regional Corruption in Public Service Dataset-2018-2021
+Dataset constructed from offical data gathered by the federal government on cases of firing as a result of corrupt practices across public service institutions. 
+Data is segmentented by:
+
+Date - Day, Month, Quarter, Year, for the time span of 2018 to 2021
+
+Region 
+
+Occupation, which includes: 
+
+Security: Police, Military, Detention
+Emergency Services
+Representative Government: rural and urban local governmnet, regional, federal
+Executive Government: local, regional, federal
+Law: baliff, prosecution, judge
+Administration: customs, tax, civil service
+State Bussiness
+Education, culute and Sport
+Other
